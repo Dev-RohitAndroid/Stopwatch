@@ -1,1 +1,2 @@
 I created a basic Stopwatch using React and TypeScript. It contains three basic features of a stopwatch, i.e. start, pause, and reset. Also, the UI is the responsive.
+You can preview the site on vercel. 
